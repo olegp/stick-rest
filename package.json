@@ -1,0 +1,26 @@
+{
+  "name": "stick-rest",
+  "version": "0.1.0",
+  "description": "JSON REST middleware for Stick",
+  "main": "./lib/rest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/olegp/stick-rest.git"
+  },
+  "keywords": [
+    "rest",
+    "json",
+    "stick",
+    "common-node",
+    "commonjs"
+  ],
+  "author": "Oleg Podsechin (oleg@ionsquare.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/olegp/stick-rest/issues"
+  },
+  "homepage": "https://github.com/olegp/stick-rest"
+}
